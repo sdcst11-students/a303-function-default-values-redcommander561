@@ -22,8 +22,9 @@ assert sentence("Hiya","Casey","Have you enjoyed your meal") == "Hiya Casey. Hav
 (2 points) 
 """
 
-def sentence():
-  return ""
+def sentence(greeting ="hello",  name = "Benjamin", question = "how are you"):
+  print(sentence)
+  return 
 
 
 if __name__ == "__main__":
